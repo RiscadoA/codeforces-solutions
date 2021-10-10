@@ -3,4 +3,5 @@
 !*.cpp
 !shell.nix
 !.gitignore
+!*.md
 .vscode
