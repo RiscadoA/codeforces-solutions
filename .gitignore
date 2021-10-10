@@ -1,0 +1,6 @@
+*
+!*/
+!*.cpp
+!shell.nix
+!.gitignore
+.vscode
